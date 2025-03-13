@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is my first project in The Odin Project (TOP), been amazing learing coding...
